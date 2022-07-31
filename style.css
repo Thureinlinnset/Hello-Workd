@@ -1,0 +1,57 @@
+p2{
+    background-color:white
+}
+p3{
+    background-color: silver;
+}
+ p4{
+    background-color:gray;
+}
+p5{
+    background-color:black;
+}
+p6{
+    background-color:red;
+}
+p7{
+    background-color:maroon;
+}
+p8{
+    background-color:yellow;
+}
+p9{
+    background-color:olive;
+}
+p10{
+    background-color:lime;
+}
+p11{
+    background-color:green;
+}
+p12{
+    background-color:aqua;
+}
+p13{
+    background-color:teal;
+}
+p14{
+    background-color:blue;
+}
+p15{
+    background-color:navy;
+}
+p16{
+    background-color:fuchsia;
+}
+p17{
+    background-color:purple;
+}
+div#ran 
+   p3 { color:white;
+        
+    }
+
+p20 {
+    color:red;
+    background-color:green;
+}
